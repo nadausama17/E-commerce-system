@@ -1,2 +1,2 @@
 # E-commerce-system
-java android application that add products to shopping cart and makes orders using sqlite
+java android application that adds products to shopping cart and makes orders using sqlite
