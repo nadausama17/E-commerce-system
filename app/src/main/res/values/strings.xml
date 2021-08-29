@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">E-commerce</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confpass">Confirm Password</string>
+    <string name="job">Job</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="forget">Forgot Your Password?</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="signup">Sign Up</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="birthdate">Pick Your Birthdate</string>
+    <string name="categories">Categories</string>
+    <string name="search">Search</string>
+    <string name="secques">Security question for resetting password: What is the full name of your childhood friend?</string>
+    <string name="secques2">What is the full name of your childhood friend?</string>
+    <string name="answer">Answer</string>
+    <string name="reset">Reset Password</string>
+    <string name="reset2">Reset</string>
+    <string name="newpassword">New Password</string>
+    <string name="products">Products</string>
+    <string name="back">Back</string>
+    <string name="shoppincart">Shopping Cart</string>
+    <string name="buy">Buy</string>
+    <string name="getlocation">Get Current Location</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
